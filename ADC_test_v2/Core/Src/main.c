@@ -21,6 +21,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include <stdio.h>
+// test comment
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
